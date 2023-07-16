@@ -1,0 +1,112 @@
+﻿DV300_7_SAS on video related to Network components
+Self-Assessment Sheet
+
+
+
+
+Q1. DOCSIS Modem stands for ___________________. And those who have broadband cable internet will recognize this device.
+A1. Data Over Cable Services Interface Specification 
+
+
+Q2. DOCSIS modem handles both incoming and outgoing data signals including internet video and voice. The DOCSIS 3.1 specifications support speeds of 10 GB downstream and 1 GB upstream. (True/False)
+A2. True
+
+
+Q3. A hub is a device that has multiple ports that accepts ______________ from network devices. It is considered not to be intelligent because it does not filter any data or has any intelligence to where data is supposed to be sent.
+A3. Ethernet connections
+
+
+Q4. A data packet arrives at one of the ports it is copied to all other ports. All the devices on that hub sees that data packet. (True/False)
+A4. True
+
+
+Q5. The two types of hubs are _____________ and _______________.
+A5. Passive and Active
+
+
+Q6. What is the difference between Passive and active hubs?
+A6. The difference is a passive hub does not require power but in active hub does require power.
+
+
+Q7. A switch is very similar to a hub. It is also a device that has multiple ports that accepts _____________through network devices.
+A7. Ethernet connection
+
+
+Q8. A switch can actually learn the __________ addresses of the devices that are connected to it and it stores these addresses to cables.
+A8. Physical
+
+
+Q9. When a data packet is sent to a switch, it directs it only to the intended destination port. (True/False)
+A9.  True
+
+
+Q10. Multilayer switch is operated at higher levels of the __________ model. A multilayer switch can operate at ________ and ________ 3 of the OSI model. It is able to interpret layer 3 data similar to a router. 
+A10.  Layer 2 and Layer 3
+
+
+Q11. A _____________ switch operates at layers 4 to 7 of the OSI MODEL. This type of switch can perform load balancing and advanced filtering. And these switches are also very expensive. 
+A11.  Content
+
+
+Q12. POE which stands for _________________, gets data from the same cable which is through the ethernet cables. As don’t have any electrical port
+A12. Power Over Ethernet
+
+
+Q13. In some networks _____________ _ are installed in case a switch does fail so in a case of failure the data can bypass a failed switch and use the other to get the destination.
+A13. Multiple switches 
+
+
+Q14. A potential problem can happen with multiple switch network is that with broad_____________. These loops can happen when there are multiple active pass between the destination. And when this happens it can ________ the network because of the excess traffic.
+A14. Cast traffic loops
+
+
+Q15. To solve the cast traffic loops problem the __________ protocol is created. It allows for fault tolerance and prevents unnecessary ___________in the networks. And it does this by allowing the switches to talk to each other to find if loops are happening in the network.
+A15. Spanning tree, traffic loops
+
+
+Q16. ____________ are used to divide a network to separate collision domains.
+A16. Bridges
+
+
+Q17. If you add a bridge to a network it will reduce any unnecessary traffic between two segments by filtering the data based on their MAC address. Bridge only allows data to crossover to a MAC address of the destination because a bridge keeps record of all the Mac addresses. (True/False)
+A17. True
+
+
+Q18. A router is a device that routes data from one network to another based on its________. When a data packet is received from the router, the router inspects the packet and determines if the packet was meant for______________. 
+ A18.  IP address, own network or it is meant for another network.
+
+
+Q19. If the router determines that the data packet is meant for its own network it receives it. But if it is not meant for its own network, it sends it off to another network. A router is essentially a gateway for a network. (True/False)
+A19. True
+
+
+Q20. A ________ can be defined as a device that joins 2 networks together. They interconnect networks with different or incompatible communication ___________. It however does not change the data, it only changes the format of the data.
+ A20. Gateway, protocols
+
+
+Q21. CSU and DSU stands for ________________ and ________________
+A21. Channel service unit and data service unit
+
+
+Q22. CSU/DSU converts data from______________ to ________, because their data formats are very different.
+A22. Local area network to wide area network
+
+
+Q23. NICS stands for ____________ is used to connect the computer to a network. It is basically a circuit board or network adapter that is installed on your computer. And its jobs is to convert ____________ into ____________
+A23. Network Interface Card, incoming serial data into parallel data.
+
+
+Q24. A ___________ is a device that has both a transmitter and a receiver in the same package. The term applies to wireless communication in devices. 
+A24. Transceivers
+
+
+Q25. ____________ is basically a wireless hub that is used for wireless devices. It connects to a wired network and releases data between _______network and the wireless device for communication purposes.
+A25. Wireless Access Point, wired
+
+
+Q26. A dialogue modem is a device that allows a computer to transmit data over normal telephone lines. The data coming in from a telephone line is __________. A data in a computer is all ___________
+A26.  Analog, digital
+
+
+Q27. Modem converts analog data to digital data and a maximum speed of most modem todays is ______________
+A27.  56 Kbps
