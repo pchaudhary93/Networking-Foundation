@@ -1,0 +1,38 @@
+﻿DV300_15_SAS on video related to Ports
+Self-Assessment Sheet
+
+
+Q1. When data is sent over the internet, your computer needs to know how to accept it, and that is done using?
+A1. Ports 
+
+
+Q2. Ports are categorized into ________________ and _______________.
+A2.  TCP and UDP
+
+
+Q3. A port is a logical connection that is used by program to exchange information. And these ports have unique number that is identifies. (True/False)
+A3. True 
+
+
+Q4. The number of ports ranges from the _________ to ______________
+A4.  0 to 65535
+
+
+Q5. Some of these ports are very common and are used in every single day such as ________which is used for bringing up the webpages to the internet.
+A5.  Port 80 
+
+
+Q6. Another one is ____ which is used for the logging in the secure webpages that require a logging and password. 
+A6. Port 443
+
+
+Q7. Another common one is ___________ and this is used for sending email from an mail application such as Microsoft outlook.
+A7. Port 25 
+
+
+Q8 Ports are identified by _____ number
+A.  Unique 
+
+
+Q9. Port Number 22 is used for______ Service and Port Number 110 is used for ____Service
+A.  SSH, POP
